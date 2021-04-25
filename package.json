@@ -2,7 +2,7 @@
   "name": "tailwind",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "dev": "vite",
     "build:styles": "postcss css/tailwind.css -o css/tailwind.css",
