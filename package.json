@@ -4,10 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "vite",
-    "build:styles": "postcss css/tailwind.css -o css/tailwind.css",
-    "prebuild": "npm run build:css",
-    "prestart": "npm run build:css"
+    "dev": "vite"
   },
   "keywords": [],
   "author": "",
