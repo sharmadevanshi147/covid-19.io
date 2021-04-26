@@ -17,8 +17,8 @@ we will re-verify and add those leads
 
 ## Major contributors
 
-[LAKSHITA SETHI](https://github.com/Lakshi26) 
-[DEVANSHI SHARMA](https://github.com/sharmadevanshi147)
-[VANSH MASHESWARI](https://github.com/StormShadow058)
-[ASHISH SHARMA](https://github.com/alpha2320) 
+1.[LAKSHITA SETHI](https://github.com/Lakshi26) 
+2.[DEVANSHI SHARMA](https://github.com/sharmadevanshi147)
+3.[VANSH MASHESWARI](https://github.com/StormShadow058)
+4.[ASHISH SHARMA](https://github.com/alpha2320) 
 
