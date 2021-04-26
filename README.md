@@ -9,10 +9,10 @@ contribution to this website is welcomed and if you have any leads please add th
 
 ## HOW TO SEND US LEADS
 
-Go to our website https://alpha2320.github.io/covid-19.io/
-click on "add leads" 
-A google form will appear add leads there 
-we will re-verify and add those leads 
+Go to our website https://alpha2320.github.io/covid-19.io/ \
+click on "add leads"  \
+A google form will appear add leads there  \
+we will re-verify and add those leads  
 
 
 ## Major contributors
