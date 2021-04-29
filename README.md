@@ -19,6 +19,6 @@ we will re-verify and add those leads
 
 [LAKSHITA SETHI](https://github.com/Lakshi26) \
 [DEVANSHI SHARMA](https://github.com/sharmadevanshi147) \
-[VANSH MASHESWARI](https://github.com/StormShadow058) \
+[VANSH MAHESHWARI](https://github.com/StormShadow058) \
 [ASHISH SHARMA](https://github.com/alpha2320) 
 
